@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679152612 source:c:\users\diego\onedrive\Área de trabalho\ifnmg\estrutura de dados\lista_6_diego sousa dos santos\desafio_3_estagio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
